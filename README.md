@@ -2,7 +2,7 @@
 ## Career Counciling
 ### Proof 
 ![Career Counciling](https://github.com/user-attachments/assets/2bf872f1-1d0d-4bf2-8f5d-adc7f43b58cc)\
-+ S- Prior to this course I had Little knowlegde of how I'd actual go about achieving or being successful in my career. Beyond that I was not 100% Certain if this was evens the career path I'd continue to follow.\
++S- Prior to this course I had Little knowlegde of how I'd actual go about achieving or being successful in my career. Beyond that I was not 100% Certain if this was evens the career path I'd continue to follow.\
 + T- I recognise that to actually either be successful or decide to commit my self to this career, i would have to do some work such as thinking about what my goals in life are, as well as some personal factors like my strenths
    and weaknesses are.\
 + A- This course taught me how to distinguish between whats simply a Job and whats and actual viable career. It also reminded me of the SMART technique which will help in identifiying my strenths and weaknesses, amongst other.\
