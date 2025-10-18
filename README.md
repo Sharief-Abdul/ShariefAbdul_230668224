@@ -48,6 +48,7 @@
 + ## Business Communication
 ### Proof
 <img width="1826" height="727" alt="BusCom" src="https://github.com/user-attachments/assets/b5e336ab-935f-4049-a59c-1590ac806f4d" />
++
 + **S**- Post CV Workshop in our PRP class I recognized my CV could do with changes.
 + **T**- I'd need to edit my CV using the knowleged i learnt during that worksho.
 + **A**- I updated my objectives and made the sum of my knowledge more clear. 
