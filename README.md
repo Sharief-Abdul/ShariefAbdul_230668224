@@ -41,20 +41,42 @@
 ### Proof
 ![CV](https://github.com/user-attachments/assets/85519bd7-149c-4906-aae5-495de16fd264)
 + **S**- Post CV Workshop in our PRP class I recognized my CV could do with changes.
-+ **T**- I'd need to edit my CV using the knowleged i learnt during that worksho.
++ **T**- I'd need to edit my CV using the knowleged i learnt during that workshop.
 + **A**- I updated my objectives and made the sum of my knowledge more clear. 
 + **R**- I feel now that my CV is better formated than it was before
 
 + ## Business Communication
 ### Proof
-<img width="1826" height="727" alt="BusCom" src="https://github.com/user-attachments/assets/b5e336ab-935f-4049-a59c-1590ac806f4d" />
-+
-+ **S**- Post CV Workshop in our PRP class I recognized my CV could do with changes.
-+ **T**- I'd need to edit my CV using the knowleged i learnt during that worksho.
-+ **A**- I updated my objectives and made the sum of my knowledge more clear. 
-+ **R**- I feel now that my CV is better formated than it was before
+![Business](https://github.com/user-attachments/assets/effa01ac-8e22-47c0-83f9-7ce21933085a)
++ **S**- This module made me aware of how i would need to change how I communicate in a proffessional environment.
++ **T**- I would need to practice speaking formally more often.
++ **A**- Practiced formal speech as well as how to structure my emails more professionally. 
++ **R**- I feel my speech has improved in its formality and I am more prepared for communicating in a proffesional enviroment 
 
++ ## Interview Skills
+### Proof
+![Interview](https://github.com/user-attachments/assets/4b4ee312-c227-4c69-8181-fc7708859ab7)
++ **S**- Before this module I had little to no knwoledge on how to conduct myself in and interview.
++ **T**- I'd have to learn how to conduct myself in an interview, both before and during it
++ **A**- Prepared myself by preparing how to answer some of the most often asked questions. 
++ **R**- I feel more confident to do an interview and how to present myself in the best ways
 
+  
++ ## Proffesional Networking
+### Proof
+![Networking](https://github.com/user-attachments/assets/30094667-e5de-4911-a75e-48f2a84c9316)
++ **S**- Networking is not one of my strenth and i did not know how, why or where to do so.
++ **T**- To change this i would need to learn how and where to properly network in a professioanl manner
++ **A**- Completing this course taught me valuable information on networking and its importance. 
++ **R**- I feel i can network and build proffesional relationships easy and more effictively
+
++ ## Workplace Ettiquete 
+### Proof
+![Ettiquete](https://github.com/user-attachments/assets/a0734fa3-d22a-4aee-b83f-93d6803a4408)
++ **S**- I knew i needed to learn how to carry myself in a proffessional setting .
++ **T**- I had to learn proper ettiquete especially that for a workplace.
++ **A**- Course gave me more insight into workplace ettiquete. 
++ **R**- I feel im prepared to carry myself in a more professioanl manor in a workplace enviroment 
 
 
 
